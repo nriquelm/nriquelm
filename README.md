@@ -1,5 +1,7 @@
+<a href="https://drive.google.com/uc?export=view&id=1mSq_2v2AjB4hUnIbI_rrSdf8H98MgB4y"><img src="https://drive.google.com/uc?export=view&id=1mSq_2v2AjB4hUnIbI_rrSdf8H98MgB4y" style="width: 1000px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-<h1 align="center">Hi 👋, I'm Natalie Riquelmy</h1>
+
+<h1 align="center">Hi 👋, I'm Natalie.</h1>
 <h3 align="center">A passionate full stack developer with a background in education and creative writing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nriquelm&label=Profile%20views&color=0e75b6&style=flat" alt="nriquelm" /> </p>
