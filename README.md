@@ -6,15 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nriquelm&label=Profile%20views&color=0e75b6&style=flat" alt="nriquelm" /> </p>
 
-- 🔭 I’m currently working on **Funko Pop Collection Assistant**
-
-- 🌱 I’m currently learning **Vue.js**
-
 - 📫 How to reach me **n.riquelmy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U0g663Fc5nX3lVA7VcGCRNKSjnghhWYD/view?usp=sharing](https://drive.google.com/file/d/1U0g663Fc5nX3lVA7VcGCRNKSjnghhWYD/view?usp=sharing)
-
-- ⚡ Fun fact **I'm a poet and I didn't even know it ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
